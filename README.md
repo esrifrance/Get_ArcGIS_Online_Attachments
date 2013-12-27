@@ -8,7 +8,7 @@ from the attribute table.
 
 If you have exported your hosted feature service as a feature class in a Geodatabase (Personnal, File, Workgroup or Enterprise), this csv file can be used with the ArcGIS tool "Add Attachments" to include all attachements in this feature class.
 
-Note:
+Notes:
 =====
 
 This script doesn't require any ArcGIS Python libraries but it can be combined to arcpy instructions to automate
